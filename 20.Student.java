@@ -21,8 +21,8 @@ public class Student {
 
     public static void main(String[] args) {
         // Create two Student objects
-        Student student1 = new Student("Alice", 101, 20);
-        Student student2 = new Student("Bob", 102, 21);
+        Student student1 = new Student("Janardhan", 101, 20);
+        Student student2 = new Student("Jaggu", 102, 21);
 
         // Access and display information of the first student
         System.out.println("Student 1 Details:");
