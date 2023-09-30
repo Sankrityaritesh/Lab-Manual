@@ -17,7 +17,7 @@ public class This {
 
     public static void main(String[] args) {
         // Create an object of ThisExample class
-        This obj = new This("John");
+        This obj = new This("Janardhan");
 
         // Call the instance method to print the name
         obj.printName();
